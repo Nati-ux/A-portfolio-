@@ -32,7 +32,7 @@ Achievements: Recognition of completed courses and certifications.
 
 ### How to view
 
-1. Clone this repository to your local machine:git clone https://github.com/Nati-ux/tech-portfolio.git
+1. Clone this repository to your local machine:https://github.com/Nati-ux/A-portfolio-/tree/main/.github
 2. Open the index.html file in your preferred web browser.
 
 ### Project structure 
