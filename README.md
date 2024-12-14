@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Nathan Dereje - tech portfolio 
 
-_Get started using GitHub in less than an hour._
+_This is my personal tech portfolio designed to showcase my skills, experience, and achievements as an aspiring Open edX developer and web developer. The portfolio includes information about me, my technical skills, and how to get in touch._
 
 </header>
 
