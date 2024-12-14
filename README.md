@@ -23,7 +23,7 @@ _This is my personal tech portfolio designed to showcase my skills, experience, 
 
 ## FEATURES 
 
-_Welcome to "Introduction to GitHub"! :wave:_
+_Welcome to "Introduction" section! :wave:_
 
 **About Me Section: A brief bio and introduction.
 Technical Skills: Highlights of my expertise, including Open edX, HTML, CSS, and RESTful APIs.
